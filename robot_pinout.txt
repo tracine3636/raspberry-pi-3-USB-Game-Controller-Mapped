@@ -1,0 +1,17 @@
+Left Robot Arm                              Right Robot Arm
+
+gpio pins:                                  gpio pins:
+
+4  =  gripper close                         2  =  wrist up 
+5  =  gripper open                          3  =  wrist down
+6  =  shoulder up                           9  =  shoulder right
+12 =  shouder down			    10 =  shoulder left
+                                            
+13 =  forearm up	                    22 =  gripper close 
+16 =  forearm down		            23 =  gripper open	
+17 =  wrist down			    24 =  shoulder down	
+18 =  wrist up                              25 =  shoulder up
+19 =  shoulder left                         26 =  forearm up
+20 =  shoulder right                        27 =  forearm down
+                                            
+
